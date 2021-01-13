@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  CustomController
-//
-//  Created by Kirill Timanovsky on 11.11.2020.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
